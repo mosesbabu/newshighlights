@@ -2,7 +2,7 @@
 
 ## By [Moses Babu](https://github.com/mosesbabu/)
 
-## You can view the site at:[Heroku](https://newstogo.herokuapp.com/)
+## click:[here](https://newstogo.herokuapp.com/) to view live site
 
 ## Description
 
