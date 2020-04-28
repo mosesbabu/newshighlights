@@ -6,7 +6,7 @@ class Config:
     '''
     NEWS_API_SOURCE_URL='https://newsapi.org/v2/sources?apiKey={}'
     # CAT_API_URL='https://newsapi.org/v2/everything?q={}&sortBy=relevancy&apiKey={}'
-    NEWS_API_KEY=os.environ.get('NEWS_API_KEY')
+    NEWS_API_KEY='0e2654e18b4e40218c025b28ea98afb2'
     CAT_API_URL='https://newsapi.org/v2/top-headlines?country=us&category={}&apiKey={}'
 
 
