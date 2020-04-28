@@ -8,12 +8,13 @@
 }
 .col-9 {
   overflow-y: auto;
-  height: 90vh; /* NEW */
+  height: 90vh; 
 }
 
 nav {
-    background-color: #767eef;
+    background-color: gray;
     font-size: 20px;
+    font-color: white !important;
 }
 
 .btn {
