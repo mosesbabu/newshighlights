@@ -2,12 +2,11 @@
 
 ## By [Moses Babu](https://github.com/mosesbabu/)
 
+## You can view the site at:[Heroku](https://newstogo.herokuapp.com/)
+
 ## Description
 
 This is a news application allowing users to view news from different networks in different parts of the world. It has a list of all the news sources from which the user can pick and read the news directly from the source's site.
-
-
-
 
 ## User Stories
 These are the behaviours/features that the application implements for use by a user.
