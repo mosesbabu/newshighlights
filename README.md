@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a news application that allowing users to view news from different networks in different parts of the world. It has a list of all the news sources from which the user can pick and read the news directly from the source's site.
+This is a news application allowing users to view news from different networks in different parts of the world. It has a list of all the news sources from which the user can pick and read the news directly from the source's site.
 
 
 
